@@ -25,4 +25,5 @@ https://git.bootcampcontent.com/University-of-Texas-at-Austin/UTA-VIRT-FSF-PT-09
 ROUTES
 https://git.bootcampcontent.com/University-of-Texas-at-Austin/UTA-VIRT-FSF-PT-09-2023-U-LOLC/-/blob/main/13-ORM/01-Activities/28-Stu_Mini-Project/Main/routes/api/locationRoutes.js?ref_type=heads
 https://stackoverflow.com/questions/64842029/put-and-get-methods-with-router-put-and-router-delete-not-working-express
+https://stackoverflow.com/questions/69109127/sequelize-and-mysql-associations
 
